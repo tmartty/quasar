@@ -4,7 +4,7 @@ components:
   - sponsors-and-backers/Sponsor
 ---
 
-Quasar Framework an MIT-licensed open-source project and is maintained by Razvan Stoenescu and a community of open source contributors. We work on behalf of the community to create new features, fix bugs, and maintain Quasar so you can get on with your own development projects. We’re working to shape the future of the Vue.js ecosystem to **write code once and simultaneously deploy it** as a website (SPA/PWA/SSR), a Mobile App and/or an Electron App.
+Quasar Framework is an MIT-licensed open-source project and is maintained by Razvan Stoenescu and a community of open source contributors. We work on behalf of the community to create new features, fix bugs, and maintain Quasar so you can get on with your own development projects. We’re working to shape the future of the Vue.js ecosystem to **write code once and simultaneously deploy it** as a website (SPA/PWA/SSR), a Mobile App and/or an Electron App.
 
 ::: tip Founder of Quasar Framework
 *Quasar was born because I felt that a full featured framework to build responsive websites, PWAs (Progressive Web Apps), Mobile Apps (Android, iOS) and Electron apps simultaneously (using same code-base) was missing. So I quit my job to make this idea a reality. **-- Razvan Stoenescu***
